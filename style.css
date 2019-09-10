@@ -1,0 +1,39 @@
+body {
+	background-image: url(image/fond5.jpg); 
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+h1{color: darkblue
+}
+h2{color: darkblue
+}
+h1{text-decoration: underline;
+}
+h1{font-size: 60px
+}
+p{font-size: 20px
+}
+p{font-family: 'Indie Flower', cursive;
+}
+h2{text-decoration: white underline
+}
+
+.category{background-color: #d4d7dd;
+	margin: 30px auto;
+	width: 400px;
+	border-radius: 5%
+	padding: 40px;
+	box-shadow: 3px 3px blue;
+}
+#bg{border-radius: 50%;
+border: 2px solid green;
+transition: all 0.5s;
+}
+#bg:hover {
+	border-radius: 0%;
+}
+.fb li{
+	display: inline;
+	padding: 10px
+	padding-left:0px;
+}
